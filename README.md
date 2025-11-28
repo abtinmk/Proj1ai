@@ -1,19 +1,4 @@
-[Uploading general_doc.md…]()
-<style>
-  body {
-    direction: rtl;
-    text-align: right;
-  }
-  p, li, h1, h2, h3, h4, h5, h6 {
-    direction: rtl;
-    text-align: right;
-  }
 
-  code, pre, .katex {
-    direction: ltr;
-    text-align: left;
-  }
-</style>
 
 # مستندات پروژه هوش مصنوعی: سیستم مسیریابی هوشمند آمبولانس
 
